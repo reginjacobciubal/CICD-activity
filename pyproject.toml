@@ -10,7 +10,3 @@ requires-python = ">=3.8"
 
 [tool.setuptools]
 py-modules = ["main"]
-
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "invalid.backend"
